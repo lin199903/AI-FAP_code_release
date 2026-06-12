@@ -1,0 +1,10 @@
+numpy>=1.26
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.4
+lightgbm>=4.0
+shap>=0.45
+matplotlib>=3.8
+psycopg2-binary>=2.9
+duckdb>=1.0
+mapie>=1.0
